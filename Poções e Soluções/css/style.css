@@ -1,0 +1,59 @@
+.background{
+    background-color: rgb(52, 36, 59);
+}
+
+.bg-purple{
+    background-color: rgb(66, 25, 85);
+    color: rgb(0, 0, 0);
+    padding: 1.5%;
+}
+
+.logo{
+    font-family: 'Texturina' , cursive;
+    font-size:200%;
+}
+
+.navbar-brand{
+    margin: 8px;
+    size: 60px;
+}
+
+.botao{
+    font-family: 'Texturina', Arial;
+    font-size: 14px;
+    text-transform: uppercase;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.botao-purple:hover{
+    background-color: rgb(94, 39, 119);
+    color: white;
+}
+
+.links{
+   padding-left: 1.5cm; 
+   padding-top: 0.1cm;
+}
+
+.bg-produtos{
+    background-color: #123742;  
+}
+
+.bg-descricao{
+    background-color: #1b161f;  
+}
+
+.bg-hist{
+    background-color: #352b4b;  
+}
+
+.bg-footer{
+    background-color: #2b292e;
+}
+
+p,h3{
+    font-family: 'Texturina',cursive;
+    color: antiquewhite;
+}

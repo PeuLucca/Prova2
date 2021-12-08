@@ -1,0 +1,14 @@
+REQUISITOS DO SITE "POÇÕES E SOLUÇÕES":
+
+	- O site deve conter uma descrição da loja
+	- Uma seção de histórico da loja (criada em 1867) com fotos
+	- Informações de contato
+	- Seção com os produtos disponíveis
+		. usar criatividade para dar nome as poções: poção da prosperidade, poção da invisibilidade,
+		a poção cura pé de sapo, etc.
+		. As poções devem ter: nome, imagem, descrição, preço e um botão “Comprar”
+		. criar janela Modal com um formuário para compra
+		. cores escuras, mas não sombrias, para que a página seja convidativa
+		. fontes medievais clássicas
+
+	- Site deve ser responsivo
